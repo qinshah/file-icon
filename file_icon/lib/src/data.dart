@@ -356,6 +356,7 @@ const iconSetMap = {
   '.wasm': SetiMeta(_wasm, _purple),
   '.wat': SetiMeta(_wat, _purple),
   '.xml': SetiMeta(_xml, _orange),
+  '.iml': SetiMeta(_xml, _orange),
   '.yml': SetiMeta(_yml, _purple),
   '.yaml': SetiMeta(_yml, _purple),
   'swagger.json': SetiMeta(_json, _green),
